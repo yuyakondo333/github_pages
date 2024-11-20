@@ -16,7 +16,7 @@ body {
     width: 500px;
     height: 500px;
     background-size: cover;
-    background-image: url('https: //github.com/yuyakondo333/github_pages/blob/main/images/onepiece_luffy.png?raw=true');
+    background-image: url('https://raw.githubusercontent.com/yuyakondo333/github_pages/refs/heads/main/images/onepiece_luffy.png');
     background-position: center;
     margin: 0 auto;
 }
