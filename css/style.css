@@ -8,18 +8,17 @@ body {
 }
 
 .main {
-    max-width: 1000px;
+    max-width: inherit;
     height: auto;
-    margin: 0 auto;
 }
 
 .main-visual {
+    width: 500px;
+    height: 500px;
     background-image: url("../images/onepiece_luffy.png");
     background-size: cover;
     background-color: white;
     margin: 0 auto;
-    width: 600px;
-    height: 600px;
 }
 
 .footer {
