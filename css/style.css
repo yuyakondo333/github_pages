@@ -14,7 +14,7 @@ body {
 }
 
 .main-visual {
-    background-image: url(../images/onepiece_luffy.png);
+    background-image: url("../images/onepiece_luffy.png");
     background-size: cover;
     background-color: white;
 }
