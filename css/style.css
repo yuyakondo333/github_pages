@@ -7,7 +7,15 @@ body {
     background-color: aqua;
 }
 
+.main {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
+
 .main-visual {
+    background-image: url(../images/onepiece_luffy.png);
+    background-size: cover;
     background-color: white;
 }
 
